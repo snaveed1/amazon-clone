@@ -274,8 +274,3 @@ ul a{
     font-size: 0.7rem;
 }
 
-@media screen {
-    .navbar {
-        width: 375px;
-}
-}
